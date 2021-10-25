@@ -2,8 +2,7 @@
     "expo": {
         "name": "SG-EDU",
         "slug": "SG-EDU",
-        "version": "1.0.1",
-        "orientation": "portrait",
+        "version": "1.0.2",
         "icon": "./assets/icon-ios.png",
         "splash": {
             "image": "./assets/splash.png",
@@ -25,7 +24,7 @@
                 "foregroundImage": "./assets/icon.png",
                 "backgroundColor": "#FFFFFF"
             },
-            "package": "com.suportegerencial.sg_edu"
+            "package": "com.supgerencial.sgedu"
         },
         "web": {
             "favicon": "./assets/favicon.png"
